@@ -1,0 +1,1 @@
+npm test --specs ./features/example.feature:8
