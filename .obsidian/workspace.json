@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Command Line.md",
+                "file": "Amplify.md",
                 "mode": "source",
                 "source": false
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Command Line.md",
+                "file": "Amplify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,10 +291,10 @@
   },
   "active": "2deeb9753b771805",
   "lastOpenFiles": [
+    "Git Command Line.md",
     "Bitbucket.md",
     "Poeta Digital/Account.md",
     "Poeta Digital/RA Project.md",
-    "Git Command Line.md",
     "README.md",
     "Poeta Digital/Training.md",
     "Poeta Digital/To Read.md",
