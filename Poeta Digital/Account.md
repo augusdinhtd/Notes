@@ -1,6 +1,10 @@
 **Udemy**
 	nitbk502@gmail.com
 	Logitech@2018
+	
+	 https://oklahomadov.udemy.com/
+     nitbk502@gmail.com
+	Logitech@2018
 
 **TEC App**
 	- QC:
@@ -23,3 +27,6 @@ Abcd@1234
 
 GitHub
 	- dinhtran@poetadigital.com/dinhtd3010 
+
+Bitbucket
+	- App password automationtest: ATBBb2WBdcegNdqe2rUXpucATwdU17AC4140

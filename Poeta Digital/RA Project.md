@@ -1,4 +1,4 @@
-su-------**Account**---------
+-------**Account**---------
 URL QC: 
 	- Client: https://realauth.poeta-internal.com/
 	- Admin: https://realauth.poeta-internal.com/ra-auth-admin-1/sign-in
@@ -6,6 +6,12 @@ URL QC:
 URL Prod:
 	- https://app.realauthentication.com/sign-in
 	khoa+client@poetadigital.com
+	Abcd1234@
+	khoa+authenticator@poetadigital.com
+	Abcd1234@
+
+	admin
+	khoa+adminb@poetadigital.com
 	Abcd1234@
 
 Account:
@@ -142,3 +148,19 @@ dinhtran@Poeta-TDDinh:/mnt/d/2.Project/BFS_RLA/www$
 -------------------------------------------
 Git
 git reset --hard HEAD
+
+Git reset merge
+git reset --hard HEAD~1
+
+-----------------------------------------------------------------------------------------
+composition tab
+t=1675225707280
+
+-----------------------------------------------------------------------------------------
+
+Stable Node version for Source RA
+sudo n stable
+sudo n 14.21.2
+
+Stable Node version for Source Shopify
+sudo n stable

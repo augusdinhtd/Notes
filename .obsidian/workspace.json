@@ -18,8 +18,173 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a63aac804dae3a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d9596b38e2c8b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1127785951c9fba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poeta Digital/RA Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f0bdff717c8f6f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poeta Digital/Account.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a47b73963795a24",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "57c6c3aaf005a757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d359b54fd904b089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b148486daac03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4f71ab2add81bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poeta Digital/To Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2deeb9753b771805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fe9c54d0247a494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitbucket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "360aee2cfc73ddd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitbucket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bd2b419da298800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poeta Digital/RA Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79f606fd7235b1ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -56,6 +221,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "64c84c3dcb6c7f44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poeta Digital/RA Project.md",
+                "file": "Git Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +258,18 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7bfb4c219699f40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -104,16 +289,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "431ec903e542a8a1",
+  "active": "2deeb9753b771805",
   "lastOpenFiles": [
+    "Bitbucket.md",
     "Poeta Digital/Account.md",
     "Poeta Digital/RA Project.md",
-    "Automation.md",
-    "Interview/Nodejs.md",
-    "Poeta Digital/English interview.md",
+    "Git Command Line.md",
+    "README.md",
+    "Poeta Digital/Training.md",
     "Poeta Digital/To Read.md",
+    "Shopify.md",
+    "Amplify.md",
+    "Odoo.md",
+    "Automation.md",
     "Algorithm.md",
-    "Untitled 1.md",
-    "Poeta Digital/Framework/Meteor/Knowledge.md"
+    "Poeta Digital/English interview.md",
+    "Poeta Digital/Framework/Meteor/Knowledge.md",
+    "Interview/Nodejs.md",
+    "Interview/Shopify.md",
+    "Shopify",
+    "Untitled 1.md"
   ]
 }
