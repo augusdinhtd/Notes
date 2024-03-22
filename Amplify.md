@@ -1,2 +1,0 @@
-%%  %%AKIAQEKZ4RQHKJSFZ6TI
-%%  %%/YtnmXAkjld9aJDJeR5og5oLanxTSd4mDhDFuc30
