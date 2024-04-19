@@ -17,6 +17,10 @@ Docs:
    https://devhints.io/
    https://devdocs.io/
 
+Reactjs:
+   https://ibaslogic.com/react-tutorial-for-beginners/
+   https://swiperjs.com/react
+
 Vue:
    https://vuedose.tips/
    https://vueschool.io/
@@ -82,3 +86,6 @@ Dang Van Thanh
 	
 Note
 	https://www.notion.so/
+
+Monitor server:
+- new relic

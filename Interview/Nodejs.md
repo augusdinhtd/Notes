@@ -1,6 +1,6 @@
 - Những ưu điểm của nodejs
 - Bất đồng bộ với đơn luồng có xung đột gì?
-- Sope, protype trong javascript
+- Scope, protype trong javascript
 - tham trị, tham chiếu
 - Phân biệt undefined, null, NaN
 	Undefined: khi khai báo một biến nhưng chưa gán giá trị cho nó. Khi không khai báo mà log biến đó ra thì trình duyệt báo lỗi biến "is not defined".

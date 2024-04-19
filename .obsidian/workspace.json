@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Command Line.md",
+                "file": "GIT/Command Line.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Command Line.md",
+                "file": "GIT/Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b173f1e13743243a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitbucket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9d5e534c0d16c7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitbucket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc07439b29e977f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/Accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -250,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Command Line.md",
+                "file": "GIT/Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,23 +325,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2deeb9753b771805",
+  "active": "fc07439b29e977f8",
   "lastOpenFiles": [
-    "Amplify.md",
-    "Git Command Line.md",
-    "Bitbucket.md",
-    "Poeta Digital/Account.md",
-    "Poeta Digital/RA Project.md",
-    "README.md",
-    "Poeta Digital/Training.md",
-    "Poeta Digital/To Read.md",
+    "GIT/Command Line.md",
+    "GIT/Accounts.md",
     "Shopify.md",
-    "Odoo.md",
     "Automation.md",
     "Algorithm.md",
-    "Poeta Digital/English interview.md",
-    "Poeta Digital/Framework/Meteor/Knowledge.md",
+    "Bitbucket.md",
+    "GIT",
+    "Poeta Digital/To Read.md",
+    "Cudara.md",
     "Interview/Nodejs.md",
+    "Poeta Digital/English interview.md",
+    "Poeta Digital/RA Project.md",
+    "README.md",
+    "Odoo.md",
+    "Poeta Digital/Training.md",
+    "Poeta Digital/Account.md",
+    "Amplify.md",
+    "Poeta Digital/Framework/Meteor/Knowledge.md",
     "Interview/Shopify.md",
     "Shopify",
     "Untitled 1.md"
