@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Accounts.md",
+                "file": "Bitbucket.md",
                 "mode": "source",
                 "source": false
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Accounts.md",
+                "file": "Bitbucket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,17 +328,17 @@
   "active": "fc07439b29e977f8",
   "lastOpenFiles": [
     "GIT/Command Line.md",
+    "Bitbucket.md",
+    "Poeta Digital/RA Project.md",
     "GIT/Accounts.md",
     "Shopify.md",
     "Automation.md",
     "Algorithm.md",
-    "Bitbucket.md",
     "GIT",
     "Poeta Digital/To Read.md",
     "Cudara.md",
     "Interview/Nodejs.md",
     "Poeta Digital/English interview.md",
-    "Poeta Digital/RA Project.md",
     "README.md",
     "Odoo.md",
     "Poeta Digital/Training.md",

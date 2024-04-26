@@ -146,11 +146,6 @@ Migrated:  2022_11_17_030828_add_new_setting_add_permission_final_order (0.06 se
 dinhtran@Poeta-TDDinh:/mnt/d/2.Project/BFS_RLA/www$
 
 -------------------------------------------
-Git
-git reset --hard HEAD
-
-Git reset merge
-git reset --hard HEAD~1
 
 -----------------------------------------------------------------------------------------
 composition tab
